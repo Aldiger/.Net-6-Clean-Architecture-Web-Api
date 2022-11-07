@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebApi.Api/bin/Debug/net6.0
+/WebApi.Api/obj
+/WebApi.Application/bin/Debug/net6.0
+/WebApi.Application/obj
+/WebApi.Core/bin/Debug/net6.0
+/WebApi.Core/obj
+/WebApi.Domain/bin/Debug/net6.0
+/WebApi.Domain/obj
+/WebApi.Infrastructure/obj
+/WebApi.Infrastructure/bin/Debug/net6.0
